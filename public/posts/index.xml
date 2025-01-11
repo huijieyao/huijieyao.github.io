@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SAROM</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on SAROM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>测试</title>
+      <link>//localhost:1313/posts/series/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/series/</guid>
+      <description>&lt;p&gt;这篇文章提供了一些基础的 Markdown 语法样例，这些可以在 Hugo 的内容文件中使用。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown 语法指南</title>
+      <link>//localhost:1313/posts/markdown/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/markdown/</guid>
+      <description>&lt;p&gt;这篇文章提供了一些基础的 Markdown 语法样例，这些可以在 Hugo 的内容文件中使用。&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
